@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ec9de977be476d869524ed3b81163a77",
+    "revision": "046682d7fbd715997713a28b9d2201f8",
     "url": "/Catalitiumes/index.html"
   },
   {
-    "revision": "6c185de56bcbcad8c357",
+    "revision": "1547525ff72450dcd3cd",
     "url": "/Catalitiumes/static/css/2.de424728.chunk.css"
   },
   {
-    "revision": "da90598c06106a4d33c6",
+    "revision": "24e3b6793f8444dde5f4",
     "url": "/Catalitiumes/static/css/main.9426a4e9.chunk.css"
   },
   {
-    "revision": "6c185de56bcbcad8c357",
-    "url": "/Catalitiumes/static/js/2.9020b6bd.chunk.js"
+    "revision": "1547525ff72450dcd3cd",
+    "url": "/Catalitiumes/static/js/2.4b5f8b5d.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/Catalitiumes/static/js/2.9020b6bd.chunk.js.LICENSE.txt"
+    "url": "/Catalitiumes/static/js/2.4b5f8b5d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "da90598c06106a4d33c6",
-    "url": "/Catalitiumes/static/js/main.58176558.chunk.js"
+    "revision": "24e3b6793f8444dde5f4",
+    "url": "/Catalitiumes/static/js/main.beb17aed.chunk.js"
   },
   {
     "revision": "f7fa5ef2901ceca6d80c",
