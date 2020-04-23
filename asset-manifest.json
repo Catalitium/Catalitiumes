@@ -1,32 +1,34 @@
 {
   "files": {
     "main.css": "/Catalitiumes/static/css/main.9426a4e9.chunk.css",
-    "main.js": "/Catalitiumes/static/js/main.da6e48c0.chunk.js",
-    "main.js.map": "/Catalitiumes/static/js/main.da6e48c0.chunk.js.map",
+    "main.js": "/Catalitiumes/static/js/main.aca57db6.chunk.js",
+    "main.js.map": "/Catalitiumes/static/js/main.aca57db6.chunk.js.map",
     "runtime-main.js": "/Catalitiumes/static/js/runtime-main.d9518037.js",
     "runtime-main.js.map": "/Catalitiumes/static/js/runtime-main.d9518037.js.map",
     "static/css/2.de424728.chunk.css": "/Catalitiumes/static/css/2.de424728.chunk.css",
-    "static/js/2.67c2be8c.chunk.js": "/Catalitiumes/static/js/2.67c2be8c.chunk.js",
-    "static/js/2.67c2be8c.chunk.js.map": "/Catalitiumes/static/js/2.67c2be8c.chunk.js.map",
+    "static/js/2.51ae7677.chunk.js": "/Catalitiumes/static/js/2.51ae7677.chunk.js",
+    "static/js/2.51ae7677.chunk.js.map": "/Catalitiumes/static/js/2.51ae7677.chunk.js.map",
     "index.html": "/Catalitiumes/index.html",
-    "precache-manifest.ca10c84717d3322283b0f5f410820d8c.js": "/Catalitiumes/precache-manifest.ca10c84717d3322283b0f5f410820d8c.js",
+    "precache-manifest.77c43d3ec03aa3c81a3e1dfd1a6afb1f.js": "/Catalitiumes/precache-manifest.77c43d3ec03aa3c81a3e1dfd1a6afb1f.js",
     "service-worker.js": "/Catalitiumes/service-worker.js",
     "static/css/2.de424728.chunk.css.map": "/Catalitiumes/static/css/2.de424728.chunk.css.map",
     "static/css/main.9426a4e9.chunk.css.map": "/Catalitiumes/static/css/main.9426a4e9.chunk.css.map",
-    "static/js/2.67c2be8c.chunk.js.LICENSE.txt": "/Catalitiumes/static/js/2.67c2be8c.chunk.js.LICENSE.txt",
+    "static/js/2.51ae7677.chunk.js.LICENSE.txt": "/Catalitiumes/static/js/2.51ae7677.chunk.js.LICENSE.txt",
     "static/media/AALogo.png": "/Catalitiumes/static/media/AALogo.d5b97135.png",
     "static/media/AIcircle-cropped.png": "/Catalitiumes/static/media/AIcircle-cropped.f6c03336.png",
     "static/media/AWSLogo.png": "/Catalitiumes/static/media/AWSLogo.b4597ef3.png",
     "static/media/Botcircle-cropped.png": "/Catalitiumes/static/media/Botcircle-cropped.8fab72c4.png",
     "static/media/Codecircle-cropped.png": "/Catalitiumes/static/media/Codecircle-cropped.a1ef1c29.png",
+    "static/media/InstagramLogo.png": "/Catalitiumes/static/media/InstagramLogo.59d81a18.png",
     "static/media/MERNLogo.png": "/Catalitiumes/static/media/MERNLogo.239c240e.png",
+    "static/media/TwitterLogo.png": "/Catalitiumes/static/media/TwitterLogo.75c36ef3.png",
     "static/media/logo.png": "/Catalitiumes/static/media/logo.295a70b1.png"
   },
   "entrypoints": [
     "static/js/runtime-main.d9518037.js",
     "static/css/2.de424728.chunk.css",
-    "static/js/2.67c2be8c.chunk.js",
+    "static/js/2.51ae7677.chunk.js",
     "static/css/main.9426a4e9.chunk.css",
-    "static/js/main.da6e48c0.chunk.js"
+    "static/js/main.aca57db6.chunk.js"
   ]
 }

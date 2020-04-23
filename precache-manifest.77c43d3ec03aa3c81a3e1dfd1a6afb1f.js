@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7d136a5d898b2cc87fef0cc25ea82725",
+    "revision": "1aa824f2673e62042149843f4e5847c4",
     "url": "/Catalitiumes/index.html"
   },
   {
-    "revision": "e1c11dc8872d9a5c2fc0",
+    "revision": "1d3eb4688c194acad541",
     "url": "/Catalitiumes/static/css/2.de424728.chunk.css"
   },
   {
-    "revision": "74ed3fc138be49150a55",
+    "revision": "7958a90afa4b93d8dfbf",
     "url": "/Catalitiumes/static/css/main.9426a4e9.chunk.css"
   },
   {
-    "revision": "e1c11dc8872d9a5c2fc0",
-    "url": "/Catalitiumes/static/js/2.67c2be8c.chunk.js"
+    "revision": "1d3eb4688c194acad541",
+    "url": "/Catalitiumes/static/js/2.51ae7677.chunk.js"
   },
   {
-    "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/Catalitiumes/static/js/2.67c2be8c.chunk.js.LICENSE.txt"
+    "revision": "5ac48c47bb3912b14c2d8de4f56d5ae8",
+    "url": "/Catalitiumes/static/js/2.51ae7677.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "74ed3fc138be49150a55",
-    "url": "/Catalitiumes/static/js/main.da6e48c0.chunk.js"
+    "revision": "7958a90afa4b93d8dfbf",
+    "url": "/Catalitiumes/static/js/main.aca57db6.chunk.js"
   },
   {
     "revision": "f7fa5ef2901ceca6d80c",
@@ -48,8 +48,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Catalitiumes/static/media/Codecircle-cropped.a1ef1c29.png"
   },
   {
+    "revision": "59d81a18175fb47d28c4f2d9e94e1dee",
+    "url": "/Catalitiumes/static/media/InstagramLogo.59d81a18.png"
+  },
+  {
     "revision": "239c240e6e23ecaa561943c7b905ef9d",
     "url": "/Catalitiumes/static/media/MERNLogo.239c240e.png"
+  },
+  {
+    "revision": "75c36ef3660f11b4f12cfd4115f50bae",
+    "url": "/Catalitiumes/static/media/TwitterLogo.75c36ef3.png"
   },
   {
     "revision": "295a70b12b112c701f54b95face09219",
