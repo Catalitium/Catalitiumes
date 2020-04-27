@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Catalitiumes/static/css/main.9426a4e9.chunk.css",
-    "main.js": "/Catalitiumes/static/js/main.36135486.chunk.js",
-    "main.js.map": "/Catalitiumes/static/js/main.36135486.chunk.js.map",
+    "main.js": "/Catalitiumes/static/js/main.efce2b50.chunk.js",
+    "main.js.map": "/Catalitiumes/static/js/main.efce2b50.chunk.js.map",
     "runtime-main.js": "/Catalitiumes/static/js/runtime-main.d9518037.js",
     "runtime-main.js.map": "/Catalitiumes/static/js/runtime-main.d9518037.js.map",
     "static/css/2.de424728.chunk.css": "/Catalitiumes/static/css/2.de424728.chunk.css",
     "static/js/2.74d78179.chunk.js": "/Catalitiumes/static/js/2.74d78179.chunk.js",
     "static/js/2.74d78179.chunk.js.map": "/Catalitiumes/static/js/2.74d78179.chunk.js.map",
     "index.html": "/Catalitiumes/index.html",
-    "precache-manifest.ad592892ef214474258a526db9b73d86.js": "/Catalitiumes/precache-manifest.ad592892ef214474258a526db9b73d86.js",
+    "precache-manifest.1c75ed6fcbe519b6be09afc9518c510c.js": "/Catalitiumes/precache-manifest.1c75ed6fcbe519b6be09afc9518c510c.js",
     "service-worker.js": "/Catalitiumes/service-worker.js",
     "static/css/2.de424728.chunk.css.map": "/Catalitiumes/static/css/2.de424728.chunk.css.map",
     "static/css/main.9426a4e9.chunk.css.map": "/Catalitiumes/static/css/main.9426a4e9.chunk.css.map",
@@ -29,6 +29,6 @@
     "static/css/2.de424728.chunk.css",
     "static/js/2.74d78179.chunk.js",
     "static/css/main.9426a4e9.chunk.css",
-    "static/js/main.36135486.chunk.js"
+    "static/js/main.efce2b50.chunk.js"
   ]
 }
