@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fedb7d46715ad16899b8e1a09751946f",
+    "revision": "372152b9d0432758835502bb893fbafa",
     "url": "/Catalitiumes/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Catalitiumes/static/css/2.de424728.chunk.css"
   },
   {
-    "revision": "4793f31ecc1984e1e598",
+    "revision": "2cea59e9fed5462135e4",
     "url": "/Catalitiumes/static/css/main.9426a4e9.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Catalitiumes/static/js/2.74d78179.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4793f31ecc1984e1e598",
-    "url": "/Catalitiumes/static/js/main.35775484.chunk.js"
+    "revision": "2cea59e9fed5462135e4",
+    "url": "/Catalitiumes/static/js/main.f85da4ea.chunk.js"
   },
   {
     "revision": "f7fa5ef2901ceca6d80c",
